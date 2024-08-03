@@ -1,4 +1,4 @@
-# Spring_Boot
+# Spring Boot - Java Framework
 
 > [!WARNING]
 > It is incomplete repository and will be completed soon in a month
