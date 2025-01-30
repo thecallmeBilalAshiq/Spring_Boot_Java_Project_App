@@ -7,7 +7,6 @@
 <hr>
 
 
-
 #### 🔷 What exactly is going on here?
 Spring is widely used for creating scalable applications. For web applications Spring provides Spring MVC which is a widely used module of spring which is used to create scalable web applications. But main
 disadvantage of spring projects is that configuration is really time-consuming and can be a bit overwhelming for the new developers.
